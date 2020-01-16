@@ -1,2 +1,2 @@
 # socket_server
- Abstract socket.h for windows to a nice interface
+ Abstract windows net code to a nice reusable interface.  Use to make server.
